@@ -1,6 +1,6 @@
 ## Yulian Wu (伍玉莲)
 
-<img width="290" height="180" src="https://user-images.githubusercontent.com/53608749/154532910-e782a5c9-ad99-4aab-9e9c-1e7878663f41.jpeg" align="left"/>
+<img width="300" height="180" src="https://user-images.githubusercontent.com/53608749/154532910-e782a5c9-ad99-4aab-9e9c-1e7878663f41.jpeg" align="left"/>
 
 I am a first-year Ph.D. candidate in Computer Science at King Abdullah University of Science and Technology (KAUST), advised by Prof. [Di Wang](https://shao3wangdi.github.io/). Prior to this, I recieved my Master degree in Statistics under supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) and Bachelor degree in Mathematics and Applied Mathematics at [East China Normal University](https://www.ecnu.edu.cn/).
 
