@@ -23,7 +23,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
   Also accepted by Computer and Communications Security (CCS) Workshop on Privacy Preserving Machine Learning (PPML 2021).
   
-### Preprint
+### Preprints
 - PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data\
   Juexiao Zhou\*, Siyuan Chen\*, Yulian Wu\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao(\* equal contribution)
@@ -32,7 +32,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   Youming Tao, Yulian Wu, Xiuzhen Cheng and Di Wang.
   
 
-### Teaching
+### Teachings
 - Teaching Assistant of CS229: Machine Learning, Spring 2022 @KAUST
 - Teaching Assistant of Statistical Software: R Language, Spring 2020 @ECNU
 
