@@ -1,6 +1,6 @@
 ## Yulian Wu (伍玉莲）
 
-I am a first-year Ph.D. student in computer science at 
+I am a first-year Ph.D. student in computer science at King Abdullah University of Science and Technology (KAUST), advised by Prof. [Di Wang](https://shao3wangdi.github.io/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
