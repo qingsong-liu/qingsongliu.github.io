@@ -3,7 +3,7 @@
 
 Al Khawarizmi Building 1, Level 4, 4347-WS18\
 [Privacy-Awareness, Responsibility and Trustworthy (PART) Lab](https://cemse.kaust.edu.sa/part)\
-Division of CEMSE\
+Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
 King Abdullah University of Science and Technology\
 Thuwal, Saudi Arabia, 23955-6900\
 Email:yulian.wu@kaust.edu.sa 
