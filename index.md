@@ -5,8 +5,13 @@ I am a first-year Ph.D. candidate in Computer Science at King Abdullah Universit
 
 
 ### Publications and Preprint
+- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits.[[Link]](https://arxiv.org/abs/2106.02575) \
+  Youming Tao*, Yulian Wu*, Peng Zhao and Di Wang. (* equal contribution)\
+  The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
+  **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
+  
 
-### Teachings
+### Teaching
 - Teaching Assistant of CS229: Machine Learning, Spring 2022 @KAUST
 - Teaching Assistant of Statistical Software: R Language, Spring 2020 @ECNU
 
