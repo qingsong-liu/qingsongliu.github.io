@@ -31,6 +31,14 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited. \
   Youming Tao, Yulian Wu, Xiuzhen Cheng and Di Wang.
   
+### Research Experience
+-King Abdullah University of Science and Technology (01/2021-08/2021)
+ Remote Research Intern
+ Supervisor: Prof. Di Wang
+ 
+-Wayne State University (02/2022-Present)
+ Remote Research Intern
+ Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org/)
 
 ### Teachings
 - Teaching Assistant of CS229: Machine Learning, Spring 2022 @KAUST
