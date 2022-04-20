@@ -24,7 +24,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   Shorter version is accepted by Computer and Communications Security (CCS) 2021 Workshop on Privacy Preserving Machine Learning (PPML).
   
 - *Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*. \
-  Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.
+  Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
   The 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2022).
   
 ### Preprints
