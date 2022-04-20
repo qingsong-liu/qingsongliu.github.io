@@ -54,6 +54,8 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. AISTATS 2022, Online
 
 ### Services
-- Reviewer/Sub-reviewer: JMLR'21, JASA'21, CVPR'22, AISTATS'22, ESORICS'22
+- Reviewer/Sub-reviewer: 
+  - 2021: JMLR, JASA
+  - 2022: CVPR, AISTATS, ESORICS, ECML PKDD
 
 
