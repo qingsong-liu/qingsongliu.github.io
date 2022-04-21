@@ -47,8 +47,8 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 
 
 ### Selected Awards
-- 06/2021 Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**)
-- 06/2016 Meritorious Winner of Interdisciplinary Contest in Modeling (ICM)
+- 2021 Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**)
+- 2016 Meritorious Winner of Interdisciplinary Contest in Modeling (ICM)
 
 ### Talks
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. AISTATS 2022, Online
