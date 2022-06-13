@@ -21,7 +21,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. (\* equal contribution)\
   The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
-  Shorter versions are accepted by Privacy Preserving Machine Learning worshop @CCS2021 and Responsible Decision Making in Dynamic Environments Workshop   @ICML2022.
+  Shorter versions are accepted by Privacy Preserving Machine Learning worKshop @CCS2021 and Responsible Decision Making in Dynamic Environments Workshop   @ICML2022.
   
 - *Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*. \
   Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
