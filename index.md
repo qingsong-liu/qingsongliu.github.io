@@ -17,7 +17,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 
 ### Publications [[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)
 
-- *Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.[[Link]](https://arxiv.org/abs/2106.02575) \
+- *Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.[[Link]](https://proceedings.mlr.press/v151/tao22a.html) \
   Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. (\* equal contribution)\
   The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
