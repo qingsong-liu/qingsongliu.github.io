@@ -31,6 +31,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 - *PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.[[Link]](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao(\* equal contribution)
+  
 - *Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou, Di Wang(\* equal contribution)
   
