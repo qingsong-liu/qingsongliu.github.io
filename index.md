@@ -42,7 +42,11 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
  
 - Wayne State University (02/2022-Present)\
   Remote Research Intern\
-  Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org/)
+  Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org)
+  
+- University at Buffalo, The State University of New York, Buffalo, USA (07/2022- Present)\
+  Visiting Student\
+  Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
 
 ### Teachings
 - Teaching Assistant of CS229: Machine Learning, Spring 2022 @KAUST
