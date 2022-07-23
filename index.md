@@ -54,7 +54,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 
 ### Talks
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. Oral talk. AISTATS 2022, Online
-- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. Selected as contributed talk (1/10 in accepted papers). ICML 2022 workshop on RDMDE, Baltimore, Maryland
+- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. Selected as contributed talk (1/10 in accepted papers). ICML 2022 workshop on RDMDE, Baltimore, Maryland, USA
 
 ### Services
 - Reviewer/Sub-reviewer: 
