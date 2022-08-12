@@ -44,7 +44,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   Remote Research Intern\
   Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org)
   
-- University at Buffalo, The State University of New York, Buffalo, USA (07/2022- Present)\
+- University at Buffalo, The State University of New York, Buffalo, USA (07/2022- 08/2022)\
   Visiting Student\
   Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
 
