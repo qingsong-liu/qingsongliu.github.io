@@ -15,10 +15,10 @@ I am a second-year Ph.D. candidate in Computer Science at [King Abdullah Univers
 My research interests lie in multi-armed bandits, differential privacy, machine learning theory, reinforcement learning and trustworthy issues in bioinformatics.
 
 
-### Publications [[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)
+### Publications（* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)
 
 - *Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.[[Link]](https://proceedings.mlr.press/v151/tao22a.html) \
-  Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. (\* equal contribution)\
+  Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. \
   The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
   Shorter versions are accepted by CCS 2021 workshop on Privacy Preserving Machine Learning and ICML 2022 workshop on Responsible Decision Making in Dynamic Environments.
@@ -30,10 +30,10 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 ### Preprints
 - *PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.[[Link]](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
-  Ningning Chen, Wenkai Han, Di Wang and Xin Gao(\* equal contribution)
+  Ningning Chen, Wenkai Han, Di Wang and Xin Gao
   
 - *Differentially Private Heavy-tailed Multi-Armed Bandits*.\
-  **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou, Di Wang(\* equal contribution)
+  **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou, Di Wang
   
 ### Research Experience
 - King Abdullah University of Science and Technology (01/2021-08/2021)\
