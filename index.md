@@ -49,6 +49,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
 
 ### Teachings
+- Teaching Assistant of CS394V: Cont. Topics in Reinforcement Learning, Fall 2022 @KAUST
 - Teaching Assistant of CS229: Machine Learning, Spring 2022 @KAUST
 - Teaching Assistant of Statistical Software: R Language, Spring 2020 @ECNU
 
