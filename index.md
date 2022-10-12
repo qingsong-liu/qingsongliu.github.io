@@ -17,7 +17,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
 
 ### Publications（* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)
 
-- *Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.[[Link]](https://proceedings.mlr.press/v151/tao22a.html) \
+- [*Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.](https://proceedings.mlr.press/v151/tao22a.html) \
   Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. \
   The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
@@ -28,7 +28,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   The 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2022).
   
 ### Preprints
-- *PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.[[Link]](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
+- [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao
   
