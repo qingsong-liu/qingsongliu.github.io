@@ -23,7 +23,7 @@ My research interests lie in multi-armed bandits, differential privacy, machine 
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
   Shorter versions are accepted by CCS 2021 workshop on Privacy Preserving Machine Learning and ICML 2022 workshop on Responsible Decision Making in Dynamic Environments.
   
-- *Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*. \
+- [*Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*.](https://www.ijcai.org/proceedings/2022/548) \
   Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
   The 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2022).
   
