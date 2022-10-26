@@ -58,9 +58,9 @@ My research interests focus on bandits, differential privacy and reinforcement l
 
 
 ### Selected Awards
-- 2022 ICML Travel Award
-- 2021 Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**)
-- 2016 Meritorious Winner of Interdisciplinary Contest in Modeling (ICM)
+- ICML Travel Award, 2022 
+- Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**), 2021 
+- Meritorious Winner of Interdisciplinary Contest in Modeling (ICM), 2016 
 
 
 ### Talks
