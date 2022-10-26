@@ -33,10 +33,10 @@ My research interests focus on bandits, differential privacy, reinforcement lear
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao
   
 - *Differentially Private Heavy-tailed Multi-Armed Bandits*.\
-  **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou, Di Wang
+  **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
   
 - *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
-  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury, Di Wang
+  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang
   
 ### Research Experience
 - King Abdullah University of Science and Technology (01/2021-08/2021)\
