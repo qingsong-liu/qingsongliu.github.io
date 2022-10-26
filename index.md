@@ -35,7 +35,7 @@ My research interests focus on bandits, differential privacy, reinforcement lear
 - *Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou, Di Wang
   
--*Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
+- *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
   **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury, Di Wang
   
 ### Research Experience
