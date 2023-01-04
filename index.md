@@ -74,7 +74,7 @@ My research interests focus on bandits, differential privacy and reinforcement l
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. **Selected as contributed talk (4/40 in accepted papers)**. ICML 2022 workshop on RDMDE, Baltimore, Maryland, USA
 
 ### Services
-- Program Committee member: KDD 2023
+- Program Committee member: SIGKDD 2023
 - External Reviewer: ESORICS 2022, ECML-PKDD 2022, Euro S&P 2023
 
 
