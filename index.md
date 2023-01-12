@@ -21,8 +21,9 @@ My research interests focus on bandits, differential privacy and reinforcement l
   Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. \
   The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
   **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
-  Shorter versions are accepted by CCS 2021 workshop on Privacy Preserving Machine Learning and ICML 2022 workshop on Responsible Decision Making in Dynamic Environments.
-  
+   CCS 2021 workshop on Privacy Preserving Machine Learning \
+   ICML 2022 workshop on Responsible Decision Making in Dynamic Environments (**Oral**)
+ 
 - [*Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*.](https://www.ijcai.org/proceedings/2022/548) \
   Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
   The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
@@ -63,15 +64,9 @@ My research interests focus on bandits, differential privacy and reinforcement l
 - Meritorious Winner of Interdisciplinary Contest in Modeling (ICM), 2016 
 
 
-### Talks
-
-#### Invited Talks
+### Invited Talks
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. IJTCS-FAW 2022, Virtual
 
-
-#### Conference Talks
-- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. Oral talk. AISTATS 2022, Virtual
-- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. **Selected as contributed talk (4/40 in accepted papers)**. ICML 2022 workshop on RDMDE, Baltimore, Maryland, USA
 
 ### Services
 - Program Committee member: SIGKDD 2023
