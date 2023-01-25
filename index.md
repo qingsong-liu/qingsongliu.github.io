@@ -39,6 +39,9 @@ My research interests focus on bandits, differential privacy and reinforcement l
 - *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
   **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang
   
+-[*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
+ **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
+  
 ### Research Experience
 - King Abdullah University of Science and Technology (01/2021-08/2021)\
   Remote Research Intern\
