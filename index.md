@@ -43,7 +43,7 @@ My research interests focus on bandits, differential privacy and reinforcement l
   **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
   
 - [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
-  **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao, Di Wang
+  **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang
   
 ### Research Experience
 - King Abdullah University of Science and Technology (01/2021-08/2021)\
