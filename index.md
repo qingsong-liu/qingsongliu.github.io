@@ -15,7 +15,7 @@ I am a second-year Ph.D. candidate in Computer Science at [King Abdullah Univers
 My research interests focus on bandits, differential privacy and reinforcement learning. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics.
 
 
-### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)
+### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 
 - [*Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.](https://proceedings.mlr.press/v151/tao22a.html) \
   Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. \
