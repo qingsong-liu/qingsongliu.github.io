@@ -46,7 +46,7 @@ My research interests focus on bandits, differential privacy and reinforcement l
   **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang
   
 - [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning*.](http://arxiv.org/abs/2302.08617)\
-  Bhargav Ganguly, **Yulian Wu**, Di Wang, Vaneet Aggarwal
+  Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
   
 ### Research Experience
 - King Abdullah University of Science and Technology (01/2021-08/2021)\
