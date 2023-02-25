@@ -45,7 +45,7 @@ My research interests focus on bandits, differential privacy and reinforcement l
 - [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
   **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang
   
-- [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning.](http://arxiv.org/abs/2302.08617)\
+- [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning*.](http://arxiv.org/abs/2302.08617)\
   Bhargav Ganguly, **Yulian Wu**, Di Wang, Vaneet Aggarwal
   
 ### Research Experience
