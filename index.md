@@ -33,7 +33,7 @@ My research interests focus on bandits, differential privacy and reinforcement l
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao
   
-- *Differentially Private Heavy-tailed Multi-Armed Bandits*.\
+- *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
   
 - *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
