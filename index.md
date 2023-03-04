@@ -1,5 +1,5 @@
 ## Yulian Wu (伍玉莲)
-<!-- <img width="200" height="210" src="./Yulian.jpeg" align="right"/> -->
+<img width="200" height="210" src="./Yulian.jpeg" align="right"/> 
 
 Al Khawarizmi Building 1, Level 4, 4212-WS16\
 [Privacy-Awareness, Responsibility and Trustworthy (PART) Lab](https://cemse.kaust.edu.sa/part)\
