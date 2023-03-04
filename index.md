@@ -1,6 +1,5 @@
 ## Yulian Wu (伍玉莲)
-<img width="250" height="180" src="https://user-images.githubusercontent.com/53608749/154532910-e782a5c9-ad99-4aab-9e9c-1e7878663f41.jpeg" align="right"/>
-
+<img width="250" height="180" src="./Yulian.jpeg" align="right"/>
 Al Khawarizmi Building 1, Level 4, 4212-WS16\
 [Privacy-Awareness, Responsibility and Trustworthy (PART) Lab](https://cemse.kaust.edu.sa/part)\
 Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
