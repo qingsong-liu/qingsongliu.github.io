@@ -28,6 +28,10 @@ My research interests focus on bandits, differential privacy and reinforcement l
   Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
   The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
   
+- *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
+  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang
+  The 40th International Conference on Machine Learning (ICML 2023).
+  
 ### Preprints （* indicates equal contribution）
 - [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
@@ -35,9 +39,6 @@ My research interests focus on bandits, differential privacy and reinforcement l
   
 - *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
-  
-- *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
-  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang
   
 - [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
   **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
