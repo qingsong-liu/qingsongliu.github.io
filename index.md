@@ -29,7 +29,7 @@ My research interests focus on bandits, differential privacy and reinforcement l
   The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
   
 - *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
-  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang
+  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang.\
   The 40th International Conference on Machine Learning (ICML 2023).
   
 ### Preprints （* indicates equal contribution）
