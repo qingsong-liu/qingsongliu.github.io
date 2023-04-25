@@ -17,6 +17,10 @@ My research interests focus on bandits, differential privacy and reinforcement l
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 
+- *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
+  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang.\
+  The 40th International Conference on Machine Learning (ICML 2023).
+
 - [*Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.](https://proceedings.mlr.press/v151/tao22a.html) \
   Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. \
   The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
@@ -28,9 +32,6 @@ My research interests focus on bandits, differential privacy and reinforcement l
   Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
   The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
   
-- *Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.\
-  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang.\
-  The 40th International Conference on Machine Learning (ICML 2023).
   
 ### Preprints （* indicates equal contribution）
 - [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
