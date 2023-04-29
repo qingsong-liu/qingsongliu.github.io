@@ -41,11 +41,11 @@ My research interests focus on bandits, differential privacy and reinforcement l
 - *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
   
-- [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
-  **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
-  
 - [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
   **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang
+  
+- [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
+  **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
   
 - [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning*.](http://arxiv.org/abs/2302.08617)\
   Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
