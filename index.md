@@ -2,7 +2,7 @@
 <img width="190" height="210" src="./Yulian2.jpeg" align="right"/> 
 
 Al Khawarizmi Building 1, Level 4, 4212-WS16\
-[Privacy-Awareness, Responsibility and Trustworthy (PART) Lab](https://cemse.kaust.edu.sa/part)\
+[Provable Responsible AI and Data Analytics Lab (PRADA LAB)](http://www.pradalab.org/)\
 Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
 King Abdullah University of Science and Technology\
 Thuwal, Saudi Arabia, 23955-6900\
