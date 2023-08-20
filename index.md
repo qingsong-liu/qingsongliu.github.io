@@ -51,7 +51,7 @@ My research interests focus on bandits, reinforcement learning, and differential
 ### Research Experience
 - King Abdullah University of Science and Technology (01/2021-08/2021)\
   Remote Research Intern\
-  Supervisor: Prof. Di Wang
+  Supervisor: Prof. [Di Wang](https://shao3wangdi.github.io/)
  
 - Wayne State University (02/2022- 08/2023)\
   Remote Research Intern\
