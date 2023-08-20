@@ -62,7 +62,7 @@ My research interests focus on bandits, reinforcement learning, and differential
   Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
 
 - Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
-  Onsite intern\
+  Onsite Intern\
   Mentor: [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
   
 
