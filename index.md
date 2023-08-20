@@ -1,8 +1,6 @@
 ## Yulian Wu (伍玉莲)
 <img width="190" height="210" src="./Yulian2.jpeg" align="right"/> 
 
-Al Khawarizmi Building 1, Level 4, 4212-WS16\
-[Provable Responsible AI and Data Analytics Lab (PRADA LAB)](http://www.pradalab.org/)\
 Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
 King Abdullah University of Science and Technology\
 Thuwal, Saudi Arabia, 23955-6900\
@@ -10,9 +8,9 @@ Email:yulian.wu@kaust.edu.sa
 
 
 ## Bio
-I am a second-year Ph.D. student in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), advised by Prof. [Di Wang](https://shao3wangdi.github.io/). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
+I am a second-year Ph.D. student in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and my Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
 
-My research interests focus on bandits, differential privacy and reinforcement learning. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics.
+My research interests focus on bandits, reinforcement learning, and differential privacy. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics.
 
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
@@ -55,13 +53,18 @@ My research interests focus on bandits, differential privacy and reinforcement l
   Remote Research Intern\
   Supervisor: Prof. Di Wang
  
-- Wayne State University (02/2022-Present)\
+- Wayne State University (02/2022- 08/2023)\
   Remote Research Intern\
   Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org)
   
 - University at Buffalo, The State University of New York, Buffalo, USA (07/2022- 08/2022)\
   Visiting Student\
   Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
+
+- Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
+  Onsite intern\
+  Mentor: [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
+  
 
 ### Teachings
 - Teaching Assistant of CS394V: Cont. Topics in Reinforcement Learning, Fall 2022 @KAUST
