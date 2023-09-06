@@ -15,7 +15,7 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 
-- [*Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.](https://arxiv.org/abs/2306.01121](https://proceedings.mlr.press/v202/wu23aa)\
+- [*Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.](https://proceedings.mlr.press/v202/wu23aa)\
   **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang.\
   The 40th International Conference on Machine Learning (ICML 2023).
 
