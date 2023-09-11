@@ -83,7 +83,7 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 
 ### Services
-- Program Committee member: SIGKDD 2023
+- Program Committee member: SIGKDD 2023, SDM 2024
 - Reviewer: ESORICS 2022, ECML-PKDD 2022, Euro S&P 2023,  ECML-PKDD 2023
 
 
