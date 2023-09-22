@@ -15,6 +15,11 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 
+- [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
+  **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang.\
+  The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
+
+
 - [*Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.](https://proceedings.mlr.press/v202/wu23aa)\
   **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang.\
   The 40th International Conference on Machine Learning (ICML 2023).
@@ -38,9 +43,6 @@ My research interests focus on bandits, reinforcement learning, and differential
   
 - *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
-  
-- [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
-  **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang
   
 - [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
   **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
