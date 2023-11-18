@@ -75,6 +75,7 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 
 ### Selected Awards
+- NeurIPS travel award, 2023
 - NIPS Grant by KAUST AI Initiative, 2022
 - ICML Travel Award, 2022 
 - Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**), 2021 
@@ -87,7 +88,7 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 ### Services
 - Program Committee member: SIGKDD 2023, SDM 2024
-- Reviewer: ESORICS 2022, ECML-PKDD 2022, Euro S&P 2023,  ECML-PKDD 2023
+- Reviewer: ESORICS 2022, ECML-PKDD 2022, Euro S&P 2023,  ECML-PKDD 2023, AISTATS 2024
 
 
 <!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5t6uoz0hjby&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>-->
