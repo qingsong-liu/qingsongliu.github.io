@@ -17,7 +17,7 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 - [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.biorxiv.org/content/10.1101/2022.03.23.485485v1.abstract)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
-  Ningning Chen, Wenkai Han, Di Wang and Xin Gao
+  Ningning Chen, Wenkai Han, Di Wang and Xin Gao.\
   Science Advances
 
 - [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
