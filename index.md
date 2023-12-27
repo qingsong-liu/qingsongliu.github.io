@@ -8,7 +8,7 @@ Email:yulian.wu@kaust.edu.sa
 
 
 ## Bio
-I am a third-year Ph.D. student in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). I am very fortunate to be advised by Prof.[Francesco  Orabona](https://francesco.orabona.com/). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and my Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
+I am a third-year Ph.D. candidate in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). I am very fortunate to be advised by Prof.[Francesco  Orabona](https://francesco.orabona.com/). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and my Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
 
 My research interests focus on bandits, reinforcement learning, and differential privacy. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics.
 
