@@ -42,6 +42,8 @@ My research interests focus on bandits, reinforcement learning, and differential
   
   
 ### Preprints （* indicates equal contribution）
+- [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
+Ilja Kuzborskij, Kwang-Sung Jun, **Yulian Wu**, Kyoungseok Jang and Francesco Orabona
 
 - *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
