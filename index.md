@@ -73,6 +73,7 @@ Ilja Kuzborskij, Kwang-Sung Jun, **Yulian Wu**, Kyoungseok Jang and Francesco Or
   
 
 ### Teachings
+- Teaching Assistant of CS394Z: Introduction to Online Learning, Spring 2024 @KAUST
 - Teaching Assistant of CS394V: Cont. Topics in Reinforcement Learning, Fall 2022 @KAUST
 - Teaching Assistant of CS229: Machine Learning, Spring 2022, Spring 2023 @KAUST
 - Teaching Assistant of Statistical Software: R Language, Spring 2020 @ECNU
