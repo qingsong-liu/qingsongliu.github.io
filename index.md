@@ -14,6 +14,9 @@ My research interests focus on bandits, reinforcement learning, and differential
 
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
+- [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
+Ilja Kuzborskij, Kwang-Sung Jun, **Yulian Wu**, Kyoungseok Jang and Francesco Orabona.\
+The 37th Annual Conference on Learning Theory (COLT 2024)
 
 - [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.science.org/doi/10.1126/sciadv.adh8601)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
@@ -43,9 +46,6 @@ My research interests focus on bandits, reinforcement learning, and differential
   
   
 ### Preprints （* indicates equal contribution）
-- [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
-Ilja Kuzborskij, Kwang-Sung Jun, **Yulian Wu**, Kyoungseok Jang and Francesco Orabona
-
 - *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
   **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
   
