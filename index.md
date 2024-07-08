@@ -46,8 +46,6 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   
   
 ### Preprints （* indicates equal contribution）
-- *A Unified Approach to Differentially Private Heavy-tailed Multi-Armed Bandits*.\
-  **Yulian Wu**\*, Youming Tao\*, Xingyu Zhou and Di Wang
   
 - [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
   **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
