@@ -12,6 +12,8 @@ I am a third-year Ph.D. candidate in Computer Science at [King Abdullah Universi
 
 My research interests focus on bandits, reinforcement learning, and differential privacy. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics. 
 
+<p style="color:red;">I am actively seeking a postdoctoral position beginning in August 2025!</p> If you are looking for someone or know someone hiring, I’m happy to chat and would appreciate it!
+
 
 ### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
 - [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
