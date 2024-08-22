@@ -4,7 +4,7 @@
 Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
 King Abdullah University of Science and Technology\
 Thuwal, Saudi Arabia, 23955-6900\
-Email:yulian.wu@kaust.edu.sa 
+Email: yulian.wu@kaust.edu.sa 
 
 
 ## Bio
