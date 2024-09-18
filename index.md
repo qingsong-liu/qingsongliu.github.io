@@ -85,7 +85,6 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 - NIPS Grant by KAUST AI Initiative, 2022
 - ICML Travel Award, 2022 
 - Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**), 2021 
-%- Meritorious Winner of Interdisciplinary Contest in Modeling (ICM), 2016 
 
 
 ### Invited Talks
