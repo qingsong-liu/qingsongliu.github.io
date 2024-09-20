@@ -56,10 +56,10 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
   
 ### Research Experience
-- King Abdullah University of Science and Technology (01/2021-08/2021)\
-  Remote Research Intern\
-  Supervisor: Prof. [Di Wang](https://shao3wangdi.github.io/)
- 
+- Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
+  Onsite Research Intern\
+  Mentor: [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
+  
 - Wayne State University (02/2022- 08/2023)\
   Remote Research Intern\
   Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org)
@@ -68,9 +68,9 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Visiting Student\
   Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
 
-- Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
-  Onsite Research Intern\
-  Mentor: [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
+- King Abdullah University of Science and Technology (01/2021-08/2021)\
+  Remote Research Intern\
+  Supervisor: Prof. [Di Wang](https://shao3wangdi.github.io/)
   
 
 ### Teachings
