@@ -58,7 +58,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 ### Research Experience
 - RIKEN Center for Advanced Intelligence Project, Sequential Decision Making Team, Tokyo, Japan (11/2024-Now)\
   Position: Student Trainee\
-  Team leader:[Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
+  Team leader: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
 
 - Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
   Onsite Research Intern\
