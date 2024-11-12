@@ -23,7 +23,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
 - [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.science.org/doi/10.1126/sciadv.adh8601)\
   Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
   Ningning Chen, Wenkai Han, Di Wang and Xin Gao.\
-  Science Advances (Impact Factor = 15.4)\
+  Science Advances ( Impact Factor = 15.4 )\
   News: [Inside Precision Medicine](https://www.insideprecisionmedicine.com/topics/algorithm-proposed-to-protect-patient-privacy/), [Today Headline](https://todayheadline.co/an-integrated-shuffler-optimizes-the-privacy-of-personal-genomic-data-used-for-machine-learning/), [Tech Xplore](https://techxplore.com/news/2024-02-shuffler-optimizes-privacy-personal-genomic.html), [ScienMag](https://scienmag.com/shuffling-the-deck-for-privacy/), [Bioengineer.org](https://bioengineer.org/shuffling-the-deck-for-privacy/), [Newswise](https://www.newswise.com/articles/shuffling-the-deck-for-privacy), [EurekAlert](https://www.eurekalert.org/news-releases/1034533), [Biocompare](https://www.biocompare.com/Life-Science-News/610989-Novel-Privacy-Preserving-Machine-Learning-Method-Developed-for-Genomics-Data/), [nabd.ws](https://nabd.ws/h/132899916-7bdd33/?hf=0)
 
 - [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
