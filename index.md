@@ -57,6 +57,11 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
   
 ### Research Experience
+
+- Kyoto University, Kyoto, Japan (12/2024-12/2014)\
+  Visiting Student\
+  Host: [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html)
+
 - The University of Tokyo & RIKEN Center for Advanced Intelligence Project, Sequential Decision Making Team, Tokyo, Japan (11/2024-Now)\
   Position: Student Trainee\
   Team leader: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
