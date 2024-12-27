@@ -58,7 +58,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   
 ### Research Experience
 
-- Kyoto University, Kyoto, Japan (12/2024-12/2014)\
+- Kyoto University, Kyoto, Japan (12/2024-12/2024)\
   Visiting Student\
   Host: [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html)
 
