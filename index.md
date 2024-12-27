@@ -62,7 +62,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Visiting Student\
   Host: [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html)
 
-- The University of Tokyo & RIKEN Center for Advanced Intelligence Project, Sequential Decision Making Team, Tokyo, Japan (11/2024-Now)\
+- The University of Tokyo & RIKEN, Tokyo, Japan (11/2024-Now)\
   Position: Student Trainee\
   Team leader: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
 
