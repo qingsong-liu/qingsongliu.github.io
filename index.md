@@ -57,7 +57,7 @@ The 37th Annual Conference on Learning Theory (COLT 2024)
   Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
   
 ### Research Experience
-- RIKEN Center for Advanced Intelligence Project, Sequential Decision Making Team, Tokyo, Japan (11/2024-Now)\
+- The University of Tokyo & RIKEN Center for Advanced Intelligence Project, Sequential Decision Making Team, Tokyo, Japan (11/2024-Now)\
   Position: Student Trainee\
   Team leader: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
 
