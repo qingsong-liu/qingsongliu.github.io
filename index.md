@@ -1,5 +1,5 @@
 
-## Yulian Wu (伍玉莲)
+## Qingsong Liu (刘青松)
 <img width="190" height="210" src="./Yulian2.jpeg" align="right"/> 
 
 Division of Computer, Electrical, and Mathematical Sciences and Engineering (CEMSE)\
@@ -8,97 +8,139 @@ Thuwal, Saudi Arabia, 23955-6900\
 Email: [yulian.wu@kaust.edu.sa](mailto:yulian.wu@kaust.edu.sa)
 
 
-## Bio
-I am a fourth-year Ph.D. candidate in Computer Science at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en). I am very fortunate to be advised by Prof.[Francesco  Orabona](https://francesco.orabona.com/). Prior to this, I received my Master's degree in Statistics under the supervision of Prof. [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp) in 2021, and my Bachelor's degree in Mathematics and Applied Mathematics in 2018 both at [East China Normal University](https://www.ecnu.edu.cn/).
+## About Me
+I am currently a Postdoctoral Research Associate at the University of Massachusetts (UMass) Amherst, working with Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) since October 2024. Before joining UMass, I received my Ph.D. in July 2024 from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Prior to that, I achieved my Bachelor's degree in July 2019 at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
 
-My research interests focus on bandits, reinforcement learning, and differential privacy. I'm also interested in quantum machine learning and trustworthy issues in bioinformatics. 
+
+## Research Interests
+
+- **Constrained Online Optimization and Learning**
+- **Modeling and Optimization in Computer Systems and Communication Networks**
 
 <p><span style="color:red;">I am actively seeking a postdoctoral position beginning in August 2025!</span> If you are looking for someone or know someone who is hiring, I’m happy to chat and would appreciate it!</p> 
 
 
-### Publications （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=10E7OtIAAAAJ&hl=en)[[DBLP]](https://dblp.org/pid/182/8539.html)
-- [*Better-than-KL PAC-Bayes Bounds.*](https://arxiv.org/abs/2402.09201)\
-Ilja Kuzborskij, Kwang-Sung Jun, **Yulian Wu**, Kyoungseok Jang and Francesco Orabona.\
-The 37th Annual Conference on Learning Theory (COLT 2024)
+## Selected Conference Papers （* indicates equal contribution）[[Google Scholar]](https://scholar.google.com/citations?user=bVKCqt0AAAAJ&hl=zh-CN&oi=sra)
 
-- [*PPML-Omics: a Privacy-Preserving federated Machine Learning system protects patients’ privacy from omic data*.](https://www.science.org/doi/10.1126/sciadv.adh8601)\
-  Juexiao Zhou\*, Siyuan Chen\*, **Yulian Wu**\*, Haoyang Li, Bin Zhang, Longxi Zhou, Yan Hu, Zihang Xiang, Zhongxiao Li, 
-  Ningning Chen, Wenkai Han, Di Wang and Xin Gao.\
-  Science Advances (Impact Factor = 15.4)\
-  News: [Inside Precision Medicine](https://www.insideprecisionmedicine.com/topics/algorithm-proposed-to-protect-patient-privacy/), [Today Headline](https://todayheadline.co/an-integrated-shuffler-optimizes-the-privacy-of-personal-genomic-data-used-for-machine-learning/), [Tech Xplore](https://techxplore.com/news/2024-02-shuffler-optimizes-privacy-personal-genomic.html), [ScienMag](https://scienmag.com/shuffling-the-deck-for-privacy/), [Bioengineer.org](https://bioengineer.org/shuffling-the-deck-for-privacy/), [Newswise](https://www.newswise.com/articles/shuffling-the-deck-for-privacy), [EurekAlert](https://www.eurekalert.org/news-releases/1034533), [Biocompare](https://www.biocompare.com/Life-Science-News/610989-Novel-Privacy-Preserving-Machine-Learning-Method-Developed-for-Genomics-Data/), [nabd.ws](https://nabd.ws/h/132899916-7bdd33/?hf=0)
-
-- [*On Private and Robust Bandits*.](https://arxiv.org/abs/2302.02526)\
-  **Yulian Wu**\*, Xingyu Zhou\*, Youming Tao and Di Wang.\
-  The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
+- **Online Fair Allocation of Reusable Resources**
+  <br>
+  **Qingsong Liu** and Mohammad Hajiesmaili
+  <br>
+  55th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2025**.
 
 
-- [*Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards*.](https://proceedings.mlr.press/v202/wu23aa)\
-  **Yulian Wu**, Xingyu Zhou, Sayak Ray Chowdhury and Di Wang.\
-  The 40th International Conference on Machine Learning (ICML 2023).
+- **Learning to Optimize Resource Utilization with QoS Guarantees**
+  <br>
+  Zifan Jia\*, **Qingsong Liu\***, Haihui Fan, Xiaoyan Gu, Bo Li, and Weiping Wang
+  <br>
+  38th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2025**.
+  
+- **Learning the Optimal Control for Evolving Systems with Converging Dynamics**
+  <br>
+  **Qingsong Liu** and Zhixuan Fang
+  <br>
+  54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2024**.
 
-- [*Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits*.](https://proceedings.mlr.press/v151/tao22a.html) \
-  Youming Tao\*, **Yulian Wu**\*, Peng Zhao and Di Wang. \
-  The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022).\
-  **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.\
-   CCS 2021 workshop on Privacy Preserving Machine Learning \
-   ICML 2022 workshop on Responsible Decision Making in Dynamic Environments (**Oral**)
+- **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
+  <br>
+  Yin Huang\*, **Qingsong Liu\***, and Jie Xu
+  <br>
+  37th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2024**.
+
+- **Learning-based Scheduling for Information Gathering with QoS Constraints**
+  <br>
+  **Qingsong Liu**, Weihang Xu, and Zhixuan Fang
+  <br>
+  37th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2024**.
+
+
+- **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret**
+  <br>
+  **Qingsong Liu** and Zhixuan Fang
+  <br>
+  38th AAAI Conference on Artificial Intelligence. **AAAI 2024**.
+
+
+- **Learning to Schedule Tasks with Deadline and Throughput Constraints**
+  <br>
+  **Qingsong Liu** and Zhixuan Fang
+  <br>
+  36th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2023**.
+
+
+
+- **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
+  <br>
+  **Qingsong Liu\***, Weihang Xu*, Siwei Wang, and Zhixuan Fang
+  <br>
+  36th Annual Conference on Neural Information Processing Systems. **NeurIPS 2022**.
+
+- **Online Convex Optimization with Switching Costs: Algorithms and Performance**
+  <br>
+  **Qingsong Liu**, Zhuoran Li, and Zhixuan Fang
+  <br>
+  20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks. **IEEE WiOpt 2022**.
+
+  
+- **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
+  <br>
+  **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
+  <br>
+  39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **IFIP Performance 2021**.
+
+
+  
+  
  
-- [*Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited*.](https://www.ijcai.org/proceedings/2022/548) \
-  Youming Tao, **Yulian Wu**, Xiuzhen Cheng and Di Wang.\
-  The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022).
   
-  
-### Preprints （* indicates equal contribution）
-  
-- [*Quantum Heavy-tailed Bandits*.](https://arxiv.org/abs/2301.09680)\
-  **Yulian Wu**\*, Chaowen Guan\*,  Vaneet Aggarwal and  Di Wang
-  
-- [*Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning*.](http://arxiv.org/abs/2302.08617)\
-  Bhargav Ganguly, **Yulian Wu**, Di Wang and Vaneet Aggarwal
-  
-### Research Experience
-
-- Kyoto University, Kyoto, Japan (23/12/2024-27/12/2024)\
-  Visiting Student\
-  Host: [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html)
-
-- The University of Tokyo & RIKEN, Tokyo, Japan (11/2024-01/2025)\
-  Position: Student Trainee\
-  Team leader: [Shinji Ito](https://researchmap.jp/shinji_ito?lang=en)
-
-- Microsoft Research Asia, Beijing, China (07/2023- 10/2023)\
-  Onsite Research Intern\
-  Mentor: [Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/)
-  
-- Wayne State University (02/2022- 08/2023)\
-  Remote Research Intern\
-  Supervisor: Prof. [Xingyu Zhou](https://xingyuzhou.org)
-  
-- University at Buffalo, The State University of New York, Buffalo, USA (07/2022- 08/2022)\
-  Visiting Student\
-  Supervisor: Prof. [Shaofeng Zou](http://www.acsu.buffalo.edu/~szou3/)
-
-- King Abdullah University of Science and Technology (01/2021-08/2021)\
-  Remote Research Intern\
-  Supervisor: Prof. [Di Wang](https://shao3wangdi.github.io/)
-  
-
-### Teachings
-- Teaching Assistant of CS394Z: Introduction to Online Learning, Spring 2024 @KAUST
-- Teaching Assistant of CS394V: Cont. Topics in Reinforcement Learning, Fall 2022 @KAUST
-- Teaching Assistant of CS229: Machine Learning, Spring 2022, Spring 2023 @KAUST
-- Teaching Assistant of Statistical Software: R Language, Spring 2020 @ECNU
+## Journal Papers
 
 
-### Selected Awards
+- **Smoothed Online Decision Making in Communication: Algorithms and Applications**
+  <br>
+  **Qingsong Liu**, Zhuoran Li, and Zhixuan Fang
+  <br>
+  IEEE/ACM Transactions on Networking, 2024.
+
+- **Optimal Caching for Partial-observation Regime and Beyond**
+  <br>
+  Zifan Jia\*, **Qingsong Liu\***, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
+  <br>
+  IEEE Transactions on Services Computing, 2024.
+
+
+- **Online Task Scheduling and Termination with Throughput Constraint**
+  <br>
+  **Qingsong Liu** and Zhixuan Fang
+  <br>
+  IEEE/ACM Transactions on Networking, 2024.
+
+
+- **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
+  <br>
+  **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
+  <br>
+  Elsevier's Performance Evaluation (PEVA), volume 152, 2021.
+
+
+
+
+
+## Selected Awards
 - NeurIPS Travel Award, 2023
 - NIPS Grant by KAUST AI Initiative, 2022
 - ICML Travel Award, 2022 
 - Outstanding Master's Thesis of East China Normal University (**Top 4% : 1/25**), 2021 
 
+## Services
 
-### Invited Talks
-- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits. IJTCS-FAW 2022, Virtual
+- Conference Reviewer: [CDC 2022](https://cdc2022.ieeecss.org/), [AISTATS 2023](https://virtual.aistats.org/), and [NeurIPS 2024](https://neurips.cc/)
+- Journal Reviewer: [IEEE TMC](https://www.computer.org/csdl/journal/tm/), [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/), [Neural Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6720226), [ACM TOMPECS](https://dl.acm.org/journal/tompecs), and [IEEE/ACM TON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
+
+## Teaching
+
+- Game Theory, Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, **Teaching Assistant**
+- Security Technologies in Cyberspace, Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, **Teaching Assistant**
 
 
 ### Services
